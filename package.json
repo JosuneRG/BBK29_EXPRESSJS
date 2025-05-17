@@ -1,0 +1,27 @@
+{
+  "name": "bbk29_expressjs",
+  "version": "1.0.0",
+  "description": "<!-- \r - Ejercicio 1\r Crear un archivo con el nombre e1.js\r Levantar un servidor utilizando Express, al levantar el servidor tiene que mostrar un mensaje que diga: \r `Servidor levantado en el puerto ${puerto}`.",
+  "main": "e1.js",
+  "scripts": {
+    "start": "node e1.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JosuneRG/BBK29_EXPRESSJS.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JosuneRG/BBK29_EXPRESSJS/issues"
+  },
+  "homepage": "https://github.com/JosuneRG/BBK29_EXPRESSJS#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.10"
+  }
+}
